@@ -51,4 +51,4 @@ Linear Regression is a supervised Machine Learning algorithm used to predict con
 10. Predict car selling prices.
 11. Evaluate model performance.
 ## 8. Conclusion
-The Linear Regression model was successfully trained to predict used car selling prices. The model achieved an R² score of approximately 0.564, indicating
+The Linear Regression model was successfully trained to predict used car selling prices. The model achieved an R² score of approximately 0.753, indicating
